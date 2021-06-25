@@ -1,5 +1,4 @@
-import firebase from "firebase";
-import React, { FormEvent, useState } from "react";
+import { FormEvent, useState } from "react";
 import { Link, useHistory } from "react-router-dom";
 
 import illustrationImg from "../assets/images/illustration.svg";
@@ -15,7 +14,7 @@ export default function NewRoom() {
 
   const [newRoom, setNewRoom] = useState("");
   // const { user, signInWithGoogle } = useContext(AuthContext);
-  const { user, signInWithGoogle } = useAuth();
+  const { user } = useAuth();
 
   async function handleCreateRoom(event: FormEvent) {
     event.preventDefault();
