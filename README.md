@@ -42,6 +42,10 @@ $ npm install or yarn
 # Start projet
 $ npm run start or yarn start
 ```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+<br />
+Lembrando que será necessário criar uma conta no Firebase e um projeto para disponibilizar um Realtime Database.
+<br />
 
 ## 🎨 Layout 
 
