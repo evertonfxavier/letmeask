@@ -1,17 +1,19 @@
-
-
+# LetMeAsk
 
 ## Preview
 
 <h1 align="center">
-  <img alt="LetMeAsk" title="#LetMeAsk" src="https://i.ibb.co/x3R79hg/Screenshot-from-2021-06-26-19-30-40.png" />
+  <img alt="LetMeAsk" title="#LetMeAsk" src="https://i.ibb.co/D8QRybW/Group-1.png" width="100%" />
 </h1>
 
 
 
 ## 💻 Project
 
-Este projeto foi realizado com objetivo de estudo durante a NLW Together.
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+<br />
+
+Este projeto foi realizado com objetivo de estudo durante a NLW #6 Together.
 <br />
 
 ## 🧬 Techologies
@@ -20,6 +22,8 @@ This project was developed using the following technologies:
  
 - [React](https://pt-br.reactjs.org/)
 - [TypesScript](https://www.typescriptlang.org/)
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+- [Firebase](https://firebase.google.com/?hl=pt)
 
 
 ## 🚀 Getting Started 
@@ -36,7 +40,7 @@ Follow the steps below
 $ npm install or yarn  
  
 # Start projet
-$ npm start or yarn run start
+$ npm run start or yarn start
 ```
 
 ## 🎨 Layout 
